@@ -1,0 +1,14 @@
+{
+   "shiftA": {
+      "production_A_count": 0,
+      "production_B_count": 0
+   },
+   "shiftB": {
+      "production_A_count": 0,
+      "production_B_count": 0
+   },
+   "shiftC": {
+      "production_A_count": 0,
+      "production_B_count": 0
+   }
+}
